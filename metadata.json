@@ -1,0 +1,6 @@
+{
+  "name": "PROX MARKETING",
+  "description": "Bizneslarni raqamli dunyoda tizimli rivojlantirish va sotuvlarni oshirish — SMM, Performance Marketing va IT yechimlar agentligi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
